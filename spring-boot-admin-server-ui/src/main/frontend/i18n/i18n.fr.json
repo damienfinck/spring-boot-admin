@@ -23,6 +23,10 @@
     "execution_successful": "Exécution en succès.",
     "failed": "Echec",
     "float": "Décimal",
+    "group_by": {
+      "group": "Regrouper par groupe",
+      "application": "Regrouper par application"
+    },
     "hours": "{count} heure | {count} heures",
     "instances": "Instances",
     "integer": "Entier",
